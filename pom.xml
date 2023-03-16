@@ -44,5 +44,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>assingment7</finalName>
     </build>
+
 </project>
