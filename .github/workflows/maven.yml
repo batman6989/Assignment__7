@@ -36,7 +36,7 @@ jobs:
           image: jbienaime4/assignment7
           tags: latest
           registry: registry-url.io
-          dockerfile: Dockerfile
+          dockerfile: Dockerfile.ci
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
